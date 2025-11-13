@@ -19,6 +19,7 @@ Featured Projects
 | *Maven Electronics Dashboard* | Sales and operations analysis for an electronics retailer. | [View Dashboard](https://app.powerbi.com/view?r=your-link3) |
 | *LUTH 2024 Analysis* | Comprehensive insights into health, recovery and doctor/department data. | [View Dashboard](https://app.powerbi.com/view?r=your-link4) |
 | *Balaji Fast Food Dashboard* | Fast-food business analysis using Power BI. | [View Dashboard](https://app.powerbi.com/view?r=your-link5) |
+| *Uber Traffic Data  Project* | An insight of 2016 data provided by uber on customer behavioral patterns and movement patterns using  Power BI. | [View Project]
 | *SQL Nigerian Traffic Data  Project* | A structured query analysis exploring Nigerain Transportation and Traffic metrics using SQL and Power BI. | [View Project](https://github.com/BedeIwu/SQL-Sales-Insights) |
 ---
 
