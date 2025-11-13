@@ -3,7 +3,7 @@ Hi, I'm Bede Iwuoha
 Welcome to my professional portfolio.
 
 I’m a *Geographic Information Systems (GIS) and Data Analytics professional* with a strong focus on spatial intelligence, data visualization, and evidence-based decision-making.  
-I specialize in transforming raw data into clear, actionable insights using tools like *Power BI, **QGIS, and **Excel*.
+I specialize in transforming raw data into clear, actionable insights using tools like *Power BI, **QGIS, **SQL, and **Excel*.
 
 This portfolio highlights selected projects that reflect my analytical approach, attention to detail, and commitment to data-driven solutions.
 
@@ -34,7 +34,8 @@ Tools & Technologies
 - QGIS  
 - Excel  
 - GitHub Pages  
-- HTML & CSS  
+- HTML & CSS
+- Structured Query language(SQL)  
 
 ---
 
