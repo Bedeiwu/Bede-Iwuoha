@@ -60,3 +60,45 @@ header, footer {
 .navbar a:hover {
   text-decoration: underline;
 }
+
+section {
+  margin: 60px 0;
+}
+
+h2 {
+  margin-bottom: 15px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+<section id="contact">
+  <h2>Contact</h2>
+
+  <p>Email:
+    <a href="mailto:bedeiwuoha@gmail.com">
+      bedeiwuoha@gmail.com
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/bedeiwu" target="_blank">GitHub</a> |
+    <a href="https://www.linkedin.com/in/your-real-link" target="_blank">LinkedIn</a>
+  </p>
+</section>
+
+.tools-list {
+  list-style: none;
+  padding: 0;
+}
+
+.tools-list li {
+  padding: 6px 0;
+}
