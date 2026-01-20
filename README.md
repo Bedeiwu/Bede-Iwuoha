@@ -72,24 +72,7 @@
       </tr>
     </thead>
 
-    <tbody>
-      <tr>
-        <td>Smart Tracker Dashboard</td>
-        <td>Analyzed athlete performance trends over time</td>
-        <td>Power BI, SQL</td>
-        <td><a href="#">View</a></td>
-      </tr>
-
-      <tr>
-        <td>Uber Traffic Analysis</td>
-        <td>Identified traffic patterns to optimize routing</td>
-        <td>Python, Pandas</td>
-        <td><a href="#">View</a></td>
-      </tr>
-    </tbody>
-  </table>
-</section>
-
+ 
 
 | *GIS and Analysis Dashboard* | A geospatial visualization dashboard integrating QGIS data with Power BI. | [View Dashboard](https://app.powerbi.com/view?r=your-link2) |
 | *Maven Electronics Dashboard* | Sales and operations analysis for an electronics retailer. | [View Dashboard](https://app.powerbi.com/view?r=your-link3) |
