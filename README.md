@@ -1,3 +1,8 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Portfolio of Bede Iwuoha — GIS & Data Analytics professional specializing in Power BI, QGIS, SQL and data visualization.">
+
+<title>Bede Iwuoha — GIS & Data Analytics Portfolio</title>
+
 Hi, I'm Bede Iwuoha
 
 Welcome to my professional portfolio.
@@ -17,6 +22,8 @@ Featured Projects
     <tr><th>Project</th><th>Description</th><th>Link</th><th>Image</th>></th></tr>
   </thead>
   <tbody>
+    </tbody>
+</table>
 
 | *Smart Tracker Dashboard* | A Power BI dashboard analyzing athlete performance and energy balance. | [View Dashboard](https://app.powerbi.com/view?r=your-link1) | <img src="images/smart-tracker-preview.png" alt="Smart Tracker Dashboard screenshot">
 | *GIS and Analysis Dashboard* | A geospatial visualization dashboard integrating QGIS data with Power BI. | [View Dashboard](https://app.powerbi.com/view?r=your-link2) |
@@ -40,12 +47,12 @@ Tools & Technologies
 - QGIS  
 - Excel  
 - GitHub Pages  
-- Structured Query language(SQL)  
+- Structured Query Language(SQL)  
 
 ---
 
 Contact
-*Email:* bedeiwuoha@gmail.com
+*Email:* <a href="mailto:bedeiwuoha@gmail.com">bedeiwuoha@gmail.com</a>
 *LinkedIn:* https://www.linkedin.com/in/bede-iwuoha-481361167?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 *GitHub:* [@BedeIwu](https://github.com/BedeIwu)
 
