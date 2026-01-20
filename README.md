@@ -28,14 +28,14 @@ I specialize in transforming raw data into clear, actionable insights using tool
 </p1>
 <p2>This portfolio highlights selected projects that reflect my analytical approach, attention to detail, and commitment to data-driven solutions.</p2>
 
-
+<p2>
 <nav class="navbar">
   <a href="#about">About</a>
   <a href="#projects">Projects</a>
   <a href="#tools">Tools</a>
   <a href="#contact">Contact</a>
 </nav>
-
+</p2>
 Featured Projects
 
 <table>
