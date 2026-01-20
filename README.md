@@ -62,24 +62,148 @@
 <section id="projects">
   <h2>Featured Projects</h2>
 
+  <p>
+    Below are selected data analytics and GIS projects demonstrating my ability
+    to solve real-world problems using data-driven insights.
+  </p>
+
   <table class="projects-table">
     <thead>
       <tr>
-        <th>Project</th>
+        <th>Project Name</th>
         <th>Problem Solved</th>
         <th>Tools Used</th>
-        <th>Link</th>
+        <th>Dashboard</th>
+        <th>Report (PDF)</th>
+        <th>Preview</th>
       </tr>
     </thead>
 
- 
+    <tbody>
 
-| *GIS and Analysis Dashboard* | A geospatial visualization dashboard integrating QGIS data with Power BI. | [View Dashboard](https://app.powerbi.com/view?r=your-link2) |
-| *Maven Electronics Dashboard* | Sales and operations analysis for an electronics retailer. | [View Dashboard](https://app.powerbi.com/view?r=your-link3) |
-| *LUTH 2024 Analysis* | Comprehensive insights into health, recovery and doctor/department data. | [View Dashboard](https://app.powerbi.com/view?r=your-link4) |
-| *Balaji Fast Food Dashboard* | Fast-food business analysis using Power BI. | [View Dashboard](https://app.powerbi.com/view?r=your-link5) |
-| *Uber Traffic Data  Project* | An insight of 2016 data provided by uber on customer behavioral patterns and movement patterns using  Power BI. | [View Project]
-| *SQL Nigerian Traffic Data  Project* | A structured query analysis exploring Nigerain Transportation and Traffic metrics using SQL and Power BI. | [View Project](https://github.com/BedeIwu/SQL-Sales-Insights) |
+      <tr>
+        <td>Power BI Capstone – Maven Electronics</td>
+        <td>
+          Analyzed sales performance, customer behavior, and product trends
+          to support business decision-making.
+        </td>
+        <td>Power BI, SQL, Excel</td>
+        <td><a href="#" class="disabled-link">Power BI (Coming Soon)</a></td>
+        <td><a href="#">View PDF</a></td>
+        <td>Image Placeholder</td>
+      </tr>
+
+      <tr>
+        <td>Ilorin Tourism Insight</td>
+        <td>
+          Evaluated tourism patterns and spatial distribution of attractions
+          to support tourism planning and development.
+        </td>
+        <td>Power BI, QGIS, Excel</td>
+        <td><a href="#" class="disabled-link">Power BI (Coming Soon)</a></td>
+        <td><a href="#">View PDF</a></td>
+        <td>Image Placeholder</td>
+      </tr>
+
+      <tr>
+        <td>Fitness and Competition Insight</td>
+        <td>
+          Analyzed fitness performance and competition metrics to track
+          improvement, consistency, and competitive ranking.
+        </td>
+        <td>Power BI, SQL, Excel</td>
+        <td><a href="#" class="disabled-link">Power BI (Coming Soon)</a></td>
+        <td><a href="#">View PDF</a></td>
+        <td>Image Placeholder</td>
+      </tr>
+
+      <tr>
+        <td>Lagos State 2024 Health Analysis Insight</td>
+        <td>
+          Assessed public health indicators to identify trends, gaps,
+          and priority areas for health interventions.
+        </td>
+        <td>Power BI, Excel</td>
+        <td><a href="#" class="disabled-link">Power BI (Coming Soon)</a></td>
+        <td><a href="#">View PDF</a></td>
+        <td>Image Placeholder</td>
+      </tr>
+
+      <tr>
+        <td>Balaji Fast Food Insight</td>
+        <td>
+          Analyzed sales performance and customer demand patterns
+          to optimize menu and operational decisions.
+        </td>
+        <td>Power BI, Excel</td>
+        <td><a href="#" class="disabled-link">Power BI (Coming Soon)</a></td>
+        <td><a href="#">View PDF</a></td>
+        <td>Image Placeholder</td>
+      </tr>
+
+      <tr>
+        <td>2016 Uber Data Insight</td>
+        <td>
+          Explored ride demand, time-based patterns, and location trends
+          to understand urban mobility behavior.
+        </td>
+        <td>Python, Pandas, Power BI</td>
+        <td><a href="#" class="disabled-link">Power BI (Coming Soon)</a></td>
+        <td><a href="#">View PDF</a></td>
+        <td>Image Placeholder</td>
+      </tr>
+
+      <tr>
+        <td>Nigerian Weather and Traffic Insight</td>
+        <td>
+          Examined relationships between weather conditions and traffic flow
+          to highlight factors affecting congestion.
+        </td>
+        <td>Power BI, QGIS, Excel</td>
+        <td><a href="#" class="disabled-link">Power BI (Coming Soon)</a></td>
+        <td><a href="#">View PDF</a></td>
+        <td>Image Placeholder</td>
+      </tr>
+
+      <tr>
+        <td>Indian HR Data Insight</td>
+        <td>
+          Analyzed workforce data to identify attrition patterns,
+          performance trends, and HR optimization opportunities.
+        </td>
+        <td>Power BI, Excel</td>
+        <td><a href="#" class="disabled-link">Power BI (Coming Soon)</a></td>
+        <td><a href="#">View PDF</a></td>
+        <td>Image Placeholder</td>
+      </tr>
+
+      <tr>
+        <td>Data With Annie – 15 Days Challenge</td>
+        <td>
+          Completed daily analytics challenges focusing on data cleaning,
+          visualization, and insight generation under time constraints.
+        </td>
+        <td>Power BI, Excel</td>
+        <td><a href="#" class="disabled-link">Power BI (Coming Soon)</a></td>
+        <td><a href="#">View PDF</a></td>
+        <td>Image Placeholder</td>
+      </tr>
+
+      <tr>
+        <td>Nigerian Agriculture, Weather & Market Insight (2024–2025)</td>
+        <td>
+          Integrated agricultural, weather, and market data to assess
+          production trends, pricing behavior, and food security signals.
+        </td>
+        <td>Power BI, QGIS, Excel</td>
+        <td><a href="#" class="disabled-link">Power BI (Coming Soon)</a></td>
+        <td><a href="#">View PDF</a></td>
+        <td>Image Placeholder</td>
+      </tr>
+
+    </tbody>
+  </table>
+</section>
 
   </tbody>
 </table>
