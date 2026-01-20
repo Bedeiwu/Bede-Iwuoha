@@ -21,14 +21,6 @@
     <p>GIS & Data Analytics Professional</p>
   </header>
 
-<p1>
-Welcome to my professional portfolio.
-With a strong focus on spatial intelligence, data visualization, and evidence-based decision-making.  
-I specialize in transforming raw data into clear, actionable insights using tools like *Power BI, **QGIS, **SQL, and **Excel*.
-</p1>
-<p2>This portfolio highlights selected projects that reflect my analytical approach, attention to detail, and commitment to data-driven solutions.</p2>
-
-
 <nav class="navbar">
   <a href="#about">About</a>
   <a href="#projects">Projects</a>
@@ -40,14 +32,11 @@ I specialize in transforming raw data into clear, actionable insights using tool
   <h2>About Me</h2>
 
   <p>
-    I am a GIS and Data Analytics professional with experience in
-    Power BI, SQL, QGIS, and data visualization. My work focuses on
-    turning raw datasets into actionable insights for decision-making.
+    I am a GIS and Data Analytics professional with experience in Power BI, SQL, QGIS, and data visualization. My work focuses on turning raw datasets into actionable insights for decision-making.
   </p>
 
   <p>
-    I am particularly interested in spatial analytics, performance
-    tracking systems, and business intelligence solutions.
+    I am particularly interested in spatial analytics, performance tracking systems, and business intelligence solutions.
   </p>
 </section>
 
@@ -100,19 +89,36 @@ You can explore my live portfolio here:
 
 ---
 
-Tools & Technologies
-<li>Power BI</li>  
-<li>QGIS</li>  
-<li>Excel</li>
-<li>GitHub Pages</li>
-<li>Structured Query Language (SQL)</li>  
+<section id="tools">
+  <h2>Tools & Technologies</h2>
+
+  <ul class="tools-list">
+    <li>Power BI</li>
+    <li>Structured Query Language (SQL)</li>
+    <li>Python & Pandas</li>
+    <li>QGIS</li>
+    <li>Microsoft Excel</li>
+  </ul>
+</section>
+
 
 ---
 
-Contact
-*Email:* <a href="mailto:bedeiwuoha@gmail.com">bedeiwuoha@gmail.com</a>
-*LinkedIn:* https://www.linkedin.com/in/bede-iwuoha-481361167?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-*GitHub:* [@BedeIwu](https://github.com/BedeIwu)
+<section id="contact">
+  <h2>Contact</h2>
+
+  <p>Email:
+    <a href="mailto:bedeiwuoha@gmail.com">
+      bedeiwuoha@gmail.com
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/bedeiwu" target="_blank">GitHub</a> |
+    <a href="https://www.linkedin.com/in/your-real-link" target="_blank">LinkedIn</a>
+  </p>
+</section>
+
 
 ---
 
