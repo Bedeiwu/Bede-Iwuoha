@@ -12,6 +12,12 @@ This portfolio highlights selected projects that reflect my analytical approach,
 
 Featured Projects
 
+<table>
+  <thead>
+    <tr><th>Project</th><th>Description</th><th>Link</th></tr>
+  </thead>
+  <tbody>
+
 | Project | Description | Link |
 |----------|--------------|------|
 | *Smart Tracker Dashboard* | A Power BI dashboard analyzing athlete performance and energy balance. | [View Dashboard](https://app.powerbi.com/view?r=your-link1) |
@@ -22,6 +28,15 @@ Featured Projects
 | *Uber Traffic Data  Project* | An insight of 2016 data provided by uber on customer behavioral patterns and movement patterns using  Power BI. | [View Project]
 | *SQL Nigerian Traffic Data  Project* | A structured query analysis exploring Nigerain Transportation and Traffic metrics using SQL and Power BI. | [View Project](https://github.com/BedeIwu/SQL-Sales-Insights) |
 ---
+
+    <tr>
+      <td>Smart Tracker Dashboard</td>
+      <td>A Power BI dashboard analyzing athlete performance and energy balance.</td>
+      <td><a href="https://app.powerbi.com/...">View Dashboard</a></td>
+    </tr>
+    <!-- more rows -->
+  </tbody>
+</table>
 
 Live Portfolio
 You can explore my live portfolio here:  
