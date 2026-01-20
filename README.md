@@ -17,8 +17,8 @@
 <body>
 
   <header>
-    <h1>Hi, I'm Bede Iwuoha</h1>
-    <p> A GIS & Data Analytics Professional</p>
+    <h1> Bede Iwuoha</h1>
+    <p>GIS & Data Analytics Professional</p>
   </header>
 
 <p1>
@@ -28,64 +28,61 @@ I specialize in transforming raw data into clear, actionable insights using tool
 </p1>
 <p2>This portfolio highlights selected projects that reflect my analytical approach, attention to detail, and commitment to data-driven solutions.</p2>
 
-<p2>
+
 <nav class="navbar">
   <a href="#about">About</a>
   <a href="#projects">Projects</a>
   <a href="#tools">Tools</a>
   <a href="#contact">Contact</a>
 </nav>
-</p2>
-Featured Projects
 
-<table>
-  <thead>
-    <tr><th>Project</th><th>Description</th><th>Link</th><th>Image</th>></th></tr>
-  </thead>
-  <tbody>
-    </tbody>
-</table>
+<section id="about">
+  <h2>About Me</h2>
+
+  <p>
+    I am a GIS and Data Analytics professional with experience in
+    Power BI, SQL, QGIS, and data visualization. My work focuses on
+    turning raw datasets into actionable insights for decision-making.
+  </p>
+
+  <p>
+    I am particularly interested in spatial analytics, performance
+    tracking systems, and business intelligence solutions.
+  </p>
+</section>
+
 
 <section id="projects">
   <h2>Featured Projects</h2>
-  <table>
+
+  <table class="projects-table">
     <thead>
       <tr>
         <th>Project</th>
-        <th>Description</th>
+        <th>Problem Solved</th>
+        <th>Tools Used</th>
         <th>Link</th>
-        <th>Image</th>
       </tr>
     </thead>
+
     <tbody>
       <tr>
         <td>Smart Tracker Dashboard</td>
-        <td>Power BI dashboard analyzing athlete performance.</td>
-        <td><a href="https://app.powerbi.com/...">View Dashboard</a></td>
-        <td><img src="images/smart-tracker.png" alt="Smart Tracker Dashboard screenshot"></td>
+        <td>Analyzed athlete performance trends over time</td>
+        <td>Power BI, SQL</td>
+        <td><a href="#">View</a></td>
       </tr>
-  
-      <section id="projects">
-  <h2>Featured Projects</h2>
-  <table>
-    <thead>
+
       <tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Link</th>
-        <th>Image</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>*GIS and Analysis Dashboard*</td>
-        <td>A geospatial visualization dashboard integrating QGIS data with Power BI.</td>
-        <td><a href="https://app.powerbi.com/...">View Dashboard</a></td>
-        <td><img src="images/smart-tracker.png" alt="Smart Tracker Dashboard screenshot"></td>
+        <td>Uber Traffic Analysis</td>
+        <td>Identified traffic patterns to optimize routing</td>
+        <td>Python, Pandas</td>
+        <td><a href="#">View</a></td>
       </tr>
     </tbody>
   </table>
 </section>
+
 
 | *GIS and Analysis Dashboard* | A geospatial visualization dashboard integrating QGIS data with Power BI. | [View Dashboard](https://app.powerbi.com/view?r=your-link2) |
 | *Maven Electronics Dashboard* | Sales and operations analysis for an electronics retailer. | [View Dashboard](https://app.powerbi.com/view?r=your-link3) |
