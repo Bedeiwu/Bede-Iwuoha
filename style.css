@@ -93,3 +93,30 @@ section {
 .tools-list li {
   padding: 6px 0;
 }
+
+.projects-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.projects-table th,
+.projects-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  vertical-align: top;
+}
+
+.projects-table th {
+  background-color: #f4f4f4;
+  text-align: left;
+}
+
+.projects-table a {
+  text-decoration: none;
+}
+
+.disabled-link {
+  color: #777;
+  pointer-events: none;
+}
