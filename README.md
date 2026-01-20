@@ -1,18 +1,32 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Portfolio of Bede Iwuoha — GIS & Data Analytics professional specializing in Power BI, QGIS, SQL and data visualization.">
-
-<title>Bede Iwuoha — GIS & Data Analytics Portfolio</title>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Bede Iwuoha portfolio showcasing GIS, Power BI, SQL projects.">
+  <title>Bede Iwuoha | GIS & Data Analytics Portfolio</title>
+</head>
 
 Hi, I'm Bede Iwuoha
 
 Welcome to my professional portfolio.
 
+<header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#tools">Tools</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<header>
+  <nav>
+    <a href="#about">About</a>
 I’m a *Geographic Information Systems (GIS) and Data Analytics professional* with a strong focus on spatial intelligence, data visualization, and evidence-based decision-making.  
 I specialize in transforming raw data into clear, actionable insights using tools like *Power BI, **QGIS, **SQL, and **Excel*.
 
 This portfolio highlights selected projects that reflect my analytical approach, attention to detail, and commitment to data-driven solutions.
-
-
+  </nav>
+</header>
 ---
 
 Featured Projects
@@ -25,7 +39,47 @@ Featured Projects
     </tbody>
 </table>
 
-| *Smart Tracker Dashboard* | A Power BI dashboard analyzing athlete performance and energy balance. | [View Dashboard](https://app.powerbi.com/view?r=your-link1) | <img src="images/smart-tracker-preview.png" alt="Smart Tracker Dashboard screenshot">
+<section id="projects">
+  <h2>Featured Projects</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Link</th>
+        <th>Image</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Smart Tracker Dashboard</td>
+        <td>Power BI dashboard analyzing athlete performance.</td>
+        <td><a href="https://app.powerbi.com/...">View Dashboard</a></td>
+        <td><img src="images/smart-tracker.png" alt="Smart Tracker Dashboard screenshot"></td>
+      </tr>
+  
+      <section id="projects">
+  <h2>Featured Projects</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Link</th>
+        <th>Image</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>*GIS and Analysis Dashboard*</td>
+        <td>A geospatial visualization dashboard integrating QGIS data with Power BI.</td>
+        <td><a href="https://app.powerbi.com/...">View Dashboard</a></td>
+        <td><img src="images/smart-tracker.png" alt="Smart Tracker Dashboard screenshot"></td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
 | *GIS and Analysis Dashboard* | A geospatial visualization dashboard integrating QGIS data with Power BI. | [View Dashboard](https://app.powerbi.com/view?r=your-link2) |
 | *Maven Electronics Dashboard* | Sales and operations analysis for an electronics retailer. | [View Dashboard](https://app.powerbi.com/view?r=your-link3) |
 | *LUTH 2024 Analysis* | Comprehensive insights into health, recovery and doctor/department data. | [View Dashboard](https://app.powerbi.com/view?r=your-link4) |
