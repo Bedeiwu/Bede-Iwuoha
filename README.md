@@ -1,33 +1,40 @@
 <head>
   <meta charset="UTF-8">
+
+  <!-- Mobile responsiveness -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Bede Iwuoha portfolio showcasing GIS, Power BI, SQL projects.">
-  <title>Bede Iwuoha | GIS & Data Analytics Portfolio</title>
+
+  <!-- SEO -->
+  <meta name="description" content="Bede Iwuoha – GIS & Data Analytics Portfolio featuring Power BI, SQL, QGIS and data analysis projects.">
+
+  <!-- Browser tab -->
+  <title>Bede Iwuoha | GIS & Data Analytics</title>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css">
 </head>
 
-Hi, I'm Bede Iwuoha
+<body>
 
+  <header>
+    <h1>Hi, I'm Bede Iwuoha</h1>
+    <p> A GIS & Data Analytics Professional</p>
+  </header>
+
+<p1>
 Welcome to my professional portfolio.
-
-<header>
-  <nav>
-    <a href="#about">About</a>
-    <a href="#projects">Projects</a>
-    <a href="#tools">Tools</a>
-    <a href="#contact">Contact</a>
-  </nav>
-</header>
-
-<header>
-  <nav>
-    <a href="#about">About</a>
-I’m a *Geographic Information Systems (GIS) and Data Analytics professional* with a strong focus on spatial intelligence, data visualization, and evidence-based decision-making.  
+With a strong focus on spatial intelligence, data visualization, and evidence-based decision-making.  
 I specialize in transforming raw data into clear, actionable insights using tools like *Power BI, **QGIS, **SQL, and **Excel*.
+</p1>
+<p2>This portfolio highlights selected projects that reflect my analytical approach, attention to detail, and commitment to data-driven solutions.</p2>
 
-This portfolio highlights selected projects that reflect my analytical approach, attention to detail, and commitment to data-driven solutions.
-  </nav>
-</header>
----
+
+<nav class="navbar">
+  <a href="#about">About</a>
+  <a href="#projects">Projects</a>
+  <a href="#tools">Tools</a>
+  <a href="#contact">Contact</a>
+</nav>
 
 Featured Projects
 
@@ -97,11 +104,11 @@ You can explore my live portfolio here:
 ---
 
 Tools & Technologies
-- Power BI  
-- QGIS  
-- Excel  
-- GitHub Pages  
--<li>Structured Query Language (SQL)</li>  
+<li>Power BI</li>  
+<li>QGIS</li>  
+<li>Excel</li>
+<li>GitHub Pages</li>
+<li>Structured Query Language (SQL)</li>  
 
 ---
 
@@ -113,3 +120,9 @@ Contact
 ---
 
 Feel free to explore, connect, or share feedback — every insight helps improve future work.
+
+  <footer>
+    <p>© 2026 Bede Iwuoha</p>
+  </footer>
+
+</body
