@@ -6,7 +6,7 @@
   <meta name="description"
         content="Bede Iwuoha – GIS and Data Analytics professional specializing in Power BI, SQL, QGIS, and data-driven insights.">
 
-  <title>Bede Iwuoha | GIS & Data Analytics Portfolio</title>
+
 
   <link rel="stylesheet" href="style.css">
 </head>
