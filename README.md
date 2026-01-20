@@ -101,7 +101,7 @@ Tools & Technologies
 - QGIS  
 - Excel  
 - GitHub Pages  
-- Structured Query Language(SQL)  
+-<li>Structured Query Language (SQL)</li>  
 
 ---
 
