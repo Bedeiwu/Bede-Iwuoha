@@ -14,27 +14,18 @@ Featured Projects
 
 <table>
   <thead>
-    <tr><th>Project</th><th>Description</th><th>Link</th></tr>
+    <tr><th>Project</th><th>Description</th><th>Link</th><th>Image</th>></th></tr>
   </thead>
   <tbody>
 
-| Project | Description | Link |
-|----------|--------------|------|
-| *Smart Tracker Dashboard* | A Power BI dashboard analyzing athlete performance and energy balance. | [View Dashboard](https://app.powerbi.com/view?r=your-link1) |
+| *Smart Tracker Dashboard* | A Power BI dashboard analyzing athlete performance and energy balance. | [View Dashboard](https://app.powerbi.com/view?r=your-link1) | <img src="images/smart-tracker-preview.png" alt="Smart Tracker Dashboard screenshot">
 | *GIS and Analysis Dashboard* | A geospatial visualization dashboard integrating QGIS data with Power BI. | [View Dashboard](https://app.powerbi.com/view?r=your-link2) |
 | *Maven Electronics Dashboard* | Sales and operations analysis for an electronics retailer. | [View Dashboard](https://app.powerbi.com/view?r=your-link3) |
 | *LUTH 2024 Analysis* | Comprehensive insights into health, recovery and doctor/department data. | [View Dashboard](https://app.powerbi.com/view?r=your-link4) |
 | *Balaji Fast Food Dashboard* | Fast-food business analysis using Power BI. | [View Dashboard](https://app.powerbi.com/view?r=your-link5) |
 | *Uber Traffic Data  Project* | An insight of 2016 data provided by uber on customer behavioral patterns and movement patterns using  Power BI. | [View Project]
 | *SQL Nigerian Traffic Data  Project* | A structured query analysis exploring Nigerain Transportation and Traffic metrics using SQL and Power BI. | [View Project](https://github.com/BedeIwu/SQL-Sales-Insights) |
----
 
-    <tr>
-      <td>Smart Tracker Dashboard</td>
-      <td>A Power BI dashboard analyzing athlete performance and energy balance.</td>
-      <td><a href="https://app.powerbi.com/...">View Dashboard</a></td>
-    </tr>
-    <!-- more rows -->
   </tbody>
 </table>
 
@@ -49,14 +40,13 @@ Tools & Technologies
 - QGIS  
 - Excel  
 - GitHub Pages  
-- HTML & CSS
 - Structured Query language(SQL)  
 
 ---
 
 Contact
-*Email:* bedeiwuoha@gmail.com]  
-*LinkedIn:* [[Your LinkedIn Profile](https://www.linkedin.com/in/your-link)](https://www.linkedin.com/in/iwuoha-bede-481361167?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+*Email:* bedeiwuoha@gmail.com
+*LinkedIn:* https://www.linkedin.com/in/bede-iwuoha-481361167?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 *GitHub:* [@BedeIwu](https://github.com/BedeIwu)
 
 ---
