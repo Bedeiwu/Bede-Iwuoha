@@ -1,144 +1,16 @@
-<head>
-  <meta charset="UTF-8">
+# Bede Iwuoha – Data Analytics & GIS Portfolio
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+This repository contains the source code for my personal portfolio website.
 
-  <meta name="description"
-        content="Bede Iwuoha – GIS and Data Analytics professional specializing in Power BI, SQL, QGIS, and data-driven insights.">
+## 🌐 Live Portfolio
+👉 https://bedeiwu.github.io/Bede-Iwuoha/
 
+## 🛠 Tech Stack
+- HTML
+- CSS
+- Power BI
+- SQL
+- QGIS
 
-
-  <link rel="stylesheet" href="style.css">
-</head>
-
-
-<body>
-
-<header id="hero">
-  <h1>Bede Iwuoha</h1>
-  <p class="subtitle">
-    GIS & Data Analytics Professional
-  </p>
-
-  <p class="intro">
-    I work at the intersection of spatial analysis, data analytics, and business intelligence —
-    transforming complex datasets into clear, actionable insights that support better decisions.
-  </p>
-</header>
-
-
-<nav class="navbar">
-  <a href="#about">About</a>
-  <a href="#tools">Tools</a>
-  <a href="#projects">Projects</a>
-  <a href="#contact">Contact</a>
-</nav>
-
-
-<section id="about">
-  <h2>About Me</h2>
-
-  <p>
-    I am a graduate of Surveying and Geoinformatics with a strong focus on
-    Geographic Information Systems (GIS), data analysis, and analytics engineering.
-    Over time, I have transitioned toward data-driven problem solving, combining
-    spatial thinking with analytical tools.
-  </p>
-
-  <p>
-    My work involves cleaning, analyzing, and visualizing data using tools such as
-    SQL, Power BI, Python, and QGIS. I am particularly interested in performance
-    analytics, spatial intelligence, and decision-support systems.
-  </p>
-
-  <p>
-    I am currently focused on strengthening my analytics engineering skills and
-    building real-world projects that demonstrate practical, business-relevant insights.
-  </p>
-</section>
-
-
-
-<section id="projects">
-  <h2>Featured Projects</h2>
-
-  <p>
-    Below are selected data analytics and GIS projects demonstrating my ability
-    to solve real-world problems using data-driven insights.
-  </p>
-
-  <table class="projects-table">
-    <thead>
-      <tr>
-        <th>Project Name</th>
-        <th>Problem Solved</th>
-        <th>Tools Used</th>
-        <th>Dashboard</th>
-        <th>Report (PDF)</th>
-        <th>Preview</th>
-      </tr>
-    </thead>
-
-  
-  </table>
-</section>
-
-  </tbody>
-</table>
-
-Live Portfolio
-You can explore my live portfolio here:  
-👉 [https://bedeiwu.github.io/Bede-Iwuoha/](https://bedeiwu.github.io/Bede-Iwuoha/)
-
----
-
-<section id="tools">
-  <h2>Tools & Technologies</h2>
-
-  <h3>Data Analysis & Business Intelligence</h3>
-  <ul>
-    <li>Power BI</li>
-    <li>Structured Query Language (SQL)</li>
-    <li>Microsoft Excel</li>
-  </ul>
-
-  <h3>Programming & Data Processing</h3>
-  <ul>
-    <li>Python</li>
-    <li>Pandas</li>
-  </ul>
-
-  <h3>GIS & Spatial Analysis</h3>
-  <ul>
-    <li>QGIS</li>
-    <li>Geospatial Data Analysis</li>
-  </ul>
-</section>
->
-
-
-<section id="contact">
-  <h2>Contact</h2>
-
-  <p>
-    I am open to opportunities, collaborations, and discussions related to
-    GIS, data analytics, and business intelligence roles.
-  </p>
-
-  <p>
-    Email:
-    <a href="mailto:bedeiwuoha@gmail.com">bedeiwuoha@gmail.com</a>
-  </p>
-
-  <p>
-    <a href="https://github.com/bedeiwu" target="_blank">GitHub</a> |
-    <a href="https://www.linkedin.com/in/your-real-link" target="_blank">LinkedIn</a>
-  </p>
-</section>
-
-
-  <footer>
-    <p>© 2026 Bede Iwuoha</p>
-  </footer>
-
-</body
+## 📂 Featured Work
+See the full projects showcased on the live site.
