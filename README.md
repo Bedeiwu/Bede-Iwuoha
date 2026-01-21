@@ -44,7 +44,7 @@ Below are selected projects demonstrating my analytical approach, problem-solvin
 
 | Project | Problem Solved | Tools Used | Report | Preview |
 |------|---------------|-----------|--------|--------|
-| **Nigerian Agriculture, Weather & Market Insight (2024–2025)** | Integrated agricultural production, weather patterns, and market price datasets to analyze trends affecting food supply, pricing behavior, and food security across Nigeria. | Power BI, SQL | [View PDF]assets/agridb.pdf | ![](assets/assets/agridb1.png |
+| **Nigerian Agriculture, Weather & Market Insight (2024–2025)** | Integrated agricultural production, weather patterns, and market price datasets to analyze trends affecting food supply, pricing behavior, and food security across Nigeria. | Power BI, SQL | [View PDF](assets/agridb.pdf) | ![](assets/agridb1.png) ![](assets/agridb2.png) |
 | **Nigerian Weather & Traffic Insight** | Analyzed relationships between weather conditions and traffic congestion to identify patterns influencing urban mobility and road network performance. | Power BI, SQL, Excel | [View PDF](assets/pdfs/nigeria-weather-traffic.pdf) | ![](assets/images/nigeria-weather-traffic.png) |
 | **Lagos State 2024 Health Analysis Insight** | Examined public health indicators across Lagos State to identify trends, disparities, and priority areas for health planning and intervention. | Power BI, Excel | [View PDF](assets/pdfs/lagos-health-2024.pdf) | ![](assets/images/lagos-health-2024.png) |
 | **2016 Uber Data Insight** | Analyzed historical Uber trip data to identify temporal demand patterns and spatial distribution of rides, providing insight into urban mobility behavior. |  Power BI | [View PDF](assets/pdfs/uber-2016.pdf) | ![](assets/images/uber-2016.png) |
