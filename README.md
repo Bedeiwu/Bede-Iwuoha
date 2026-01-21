@@ -53,14 +53,17 @@ Below are selected projects demonstrating my analytical approach, problem-solvin
 
 ##  Supporting Projects
 
-| Project | Focus Area | Tools | Report | Preview |
-|------|-----------|------|--------|--------|
-| **Power BI Capstone – Maven Electronics** | Sales performance, customer behavior, and product trend analysis for business decision-making. | Power BI, Excel | [View PDF](assets/pdfs/maven-electronics.pdf) | ![](assets/images/maven-electronics.png) |
-| **Ilorin Tourism Insight** | Analysis of tourism patterns and spatial distribution of attractions to support tourism planning and development. | Power BI, QGIS, Excel | [View PDF](assets/pdfs/ilorin-tourism.pdf) | ![](assets/images/ilorin-tourism.png) |
-| **Fitness & Competition Insight** | Performance tracking, competition metrics, and fitness improvement analysis over time. | Power BI, Excel | [View PDF](assets/pdfs/fitness-competition.pdf) | ![](assets/images/fitness-competition.png) |
-| **Balaji Fast Food Insight** | Customer demand and sales trend analysis to support operational and menu optimization. | Power BI, Excel | [View PDF](assets/pdfs/balaji-fastfood.pdf) | ![](assets/images/balaji-fastfood.png) |
-| **Indian HR Data Insight** | Workforce data analysis to identify attrition patterns, performance trends, and HR optimization opportunities. | Power BI, Excel | [View PDF](assets/pdfs/indian-hr.pdf) | ![](assets/images/indian-hr.png) |
-| **Data With Annie – 15 Days Challenge** | Daily analytics challenges focused on data cleaning, visualization, and insight generation under time constraints. | Power BI, Excel | [View PDF](assets/pdfs/data-with-annie.pdf) | ![](assets/images/data-with-annie.png) |
+## 📂 Supporting Projects
+
+| Project | Description | PDF |
+|------|------------|-----|
+| **Power BI Capstone – Maven Electronics** | Sales performance and customer behavior analysis to support business decision-making. | _PDF coming soon_ |
+| **Ilorin Tourism Insight** | Analysis of tourism patterns and spatial distribution of attractions to support tourism planning. | [View PDF](assets/ilorin%20tourism%20insight.pdf) |
+| **Fitness & Competition Insight** | Analysis of fitness performance and competition metrics using smart watch data. | [View PDF](assets/smart%20watch%20dsshboard.pdf) |
+| **Balaji Fast Food Insight** | Sales and customer demand analysis to support operational and menu optimization. | [View PDF](assets/food%20insight.pdf) |
+| **Indian HR Data Insight** | Workforce data analysis to identify attrition patterns and performance trends. | _PDF coming soon_ |
+| **Data Analytics – 15 Days Challenge** | Daily analytics challenges focused on data cleaning, visualization, and insight generation. | [View PDF](assets/15days%20challenge.pdf) |
+
 
 ---
 
