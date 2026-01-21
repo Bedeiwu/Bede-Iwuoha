@@ -1,90 +1,290 @@
-# Bede Iwuoha – Data Analyst & GIS Portfolio
+Bede Iwuoha — Data Analyst & GIS Portfolio
 
-Welcome to my professional portfolio.  
-This repository showcases selected **data analytics and GIS projects** where I apply data-driven methods to extract insights across domains such as **agriculture, health, mobility, business performance, and spatial analysis**.
+📍 Portfolio First
+This repository is my primary professional portfolio, showcasing real-world data analytics, business intelligence, and GIS projects with dashboards, reports, and analytical insights.
 
----
+👉 Recruiters and hiring managers: start with the Flagship Projects below.
 
-##  About Me
+👤 Profile Summary (Main Bio)
 
-I am a **Data Analyst and GIS professional** with a background in **Surveying and Geoinformatics**.  
-My work focuses on transforming raw and complex datasets into **clear, actionable insights** using data analytics, business intelligence, and spatial analysis techniques.
+I am a Data Analyst and GIS professional with a background in Surveying and Geoinformatics, specializing in data analysis, business intelligence, and spatial analytics. I work with structured and geospatial datasets to transform raw data into clear, decision-ready insights.
 
-I enjoy working on problems that require **analytical thinking, pattern discovery, and clear communication of results**, especially where data can support real-world decision-making.
+My technical focus includes Power BI, SQL, Python, Excel, and QGIS, with applied experience across agriculture, health, transportation, mobility, business performance, and workforce analytics. I am particularly interested in roles where data is used to support operational decisions, planning, and policy-driven outcomes.
 
-I am currently seeking roles in **Data Analytics, Business Intelligence, and GIS Analysis**, where I can apply data-driven insights to support organizations and stakeholders.
+🎯 Target Roles:
+Data Analyst • Business Intelligence Analyst • GIS Analyst • Analytics Associate
 
----
+🧠 Core Skills & Tools
 
-##  Tools & Technologies
+Data Analytics & BI
 
-**Primary Analytics & BI Tools**
-- Power BI  
-- Structured Query Language (SQL)  
-- Microsoft Excel  
+Power BI (data modeling, DAX, dashboards)
 
-**Programming & Data Processing**
-- Python  
-- Pandas  
+SQL (querying, joins, aggregations)
 
-**GIS & Spatial Analysis**
-- QGIS  
-- Geospatial Data Analysis  
+Microsoft Excel (analysis, reporting)
 
----
+Programming & Data Processing
 
-##  Featured Projects
+Python
 
-Below are selected projects demonstrating my analytical approach, problem-solving skills, and use of data tools.  
-**Flagship projects are listed first.**
+Pandas
 
----
+GIS & Spatial Analysis
 
-##  Flagship Projects
+QGIS
 
-| Project | Problem Solved and Metrics | Tools Used | Report | Preview |
-|------|---------------|-----------|--------|--------|
-| **Nigerian Agriculture, Weather & Market Insight (2024–2025)** |Before: Agricultural output, weather conditions, and market prices were analyzed separately, making it difficult to understand their combined impact on food supply and pricing.
-After: Integrated agriculture, weather, and market price datasets into a unified analysis, enabling clearer insights into food security trends and price behavior across Nigeria | Power BI, SQL | [View PDF](assets/agridb.pdf) | ![](assets/agridb1.png) ![](assets/agridb2.png) |
-| **Nigerian Weather & Traffic Insight** |Before: Weather conditions and traffic congestion data existed independently, with no clear understanding of how weather influenced mobility patterns.
-After: Linked weather variables with traffic data to reveal congestion patterns under different weather conditions and improve understanding of urban mobility behavior. | Power BI, SQL, Excel |[View PDF](assets/Nigerian%20Traffic%20data.pdf) | ![](assets/trafficsql-analysis1.png) ![](assets/trafficsql-analysis2.png) ![](assets/trafficsql-analysis3.png) |
-| **Lagos State 2024 Health Analysis Insight** | Before: Public health indicators were available as raw figures, making it hard to identify priority areas or trends across the state.
-After: Consolidated state-level health indicators for 2024 into analytical dashboards that highlighted trends, disparities, and key areas for health planning. | Power BI, Excel |[View PDF](assets/LUTH%202024%20analysis.pdf) | ![](assets/health-wellness1.png) ![](assets/health-wellness2.png) ![](assets/health-wellness3.png) |
-| **2016 Uber Data Insight** | Before: Uber trip records were large and unstructured, limiting visibility into demand patterns and spatial ride behavior.
-After: Analyzed 2016 Uber trip data to uncover temporal demand trends and spatial distribution of rides, providing clearer insights into urban mobility patterns. |  Power BI | [View PDF](assets/Uber%20Data%20set%202016.pdf) | ![](assets/uberanalysis1.png) ![](assets/uberanalysis2.png) ![](assets/uberanalysis3.png) |
+Geospatial data analysis and visualization
 
----
+🏷️ Repository Topics (for discoverability)
+data-analysis
+business-intelligence
+power-bi
+sql
+python
+gis
+qgis
+data-visualization
+analytics-portfolio
 
-##  Supporting Projects
+⭐ Flagship Projects
 
-## 📂 Supporting Projects
+These projects best represent my analytical depth, domain relevance, and end-to-end workflow.
 
-| Project | Description and Metrics  | PDF |
-|------|------------|-----|
-| **Power BI Capstone – Maven Electronics** | Before: Sales data was fragmented across products and time periods, limiting insight into performance and customer behavior.
-After: Built interactive dashboards that analyzed sales performance by product, customer segment, and time, supporting data-driven business decisions. | _PDF coming soon_ |
-| **Ilorin Tourism Insight** | Before: Tourism locations and visitor-related data were scattered, offering limited spatial or trend-based insight.
-After: Analyzed tourism and location-based datasets to reveal spatial distribution of attractions and patterns relevant for tourism planning. | [View PDF](assets/ilorin%20tourism%20insight.pdf) |
-| **Fitness & Competition Insight** | Before: Fitness and competition data from smart devices existed as raw logs, making progress tracking difficult.
-After: Transformed smart-watch performance data into analytical views that tracked fitness progress and competitive performance over time. | [View PDF](assets/smart%20watch%20dsshboard.pdf) |
-| **Balaji Fast Food Insight** |Before: Transaction data was available but not structured for performance analysis or demand evaluation.
-After: Analyzed transaction-level sales data to identify demand patterns and operational insights for business optimization. | [View PDF](assets/food%20insight.pdf) |
-| **Indian HR Data Insight** | Before: Employee records were static and descriptive, with limited insight into workforce trends.
-After: Analyzed HR and employee datasets to identify attrition patterns and performance-related trends. | _PDF coming soon_ |
-| **Data Analytics – 15 Days Challenge** |Before: Analytics tasks were approached independently without consistent time pressure or structure.
-After: Completed 15 consecutive analytics challenges, strengthening skills in data cleaning, visualization, and insight generation under tight timelines, with project on logistics and airline operations. | [View PDF](assets/15days%20challenge.pdf) |
+Nigerian Agriculture, Weather & Market Insight (2024–2025)
+
+Project:
+Integrated analysis of agricultural production, climate patterns, and market pricing across Nigeria.
+
+Problem Solved:
+Agricultural, weather, and market datasets existed independently, making it difficult to understand how climate variability and market behavior jointly affect food supply and pricing.
+
+Before (Metric):
+
+Disconnected datasets across agriculture, weather, and markets
+
+Limited ability to assess cross-sector relationships
+
+After (Metric):
+
+Unified multi-source datasets into a single analytical model
+
+Enabled clearer insight into production trends, price behavior, and food security signals across regions
+
+Tools Used:
+Power BI, QGIS, Excel
+
+Dashboard / Report:
+View PDF
+
+Image Preview:
 
 
----
 
-##  Contact
 
-If you would like to discuss my projects, explore collaboration opportunities, or learn more about my work, feel free to reach out.
+Nigerian Weather & Traffic Insight
 
-- **Email:** bedeiwuoha@gmail.com  
-- **GitHub:** https://github.com/bedeiwu  
-- **LinkedIn:** (https://www.linkedin.com/in/bede-iwuoha-481361167?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+Project:
+Exploratory and analytical assessment of weather conditions and traffic congestion patterns.
 
----
+Problem Solved:
+Traffic congestion and weather conditions were analyzed separately, limiting understanding of how weather impacts road network performance.
 
-*Thank you for taking the time to review my portfolio.*
+Before (Metric):
+
+Traffic and weather data analyzed in isolation
+
+No clear visibility into weather-driven congestion patterns
+
+After (Metric):
+
+Linked weather and traffic datasets
+
+Identified congestion trends under varying weather conditions to support mobility insights
+
+Tools Used:
+Power BI, QGIS, Excel
+
+Dashboard / Report:
+View PDF
+
+Image Preview:
+
+
+
+
+
+
+Lagos State 2024 Health Analysis Insight
+
+Project:
+State-level public health data analysis for Lagos State (2024).
+
+Problem Solved:
+Public health indicators were available but not synthesized into a form suitable for identifying trends or priority intervention areas.
+
+Before (Metric):
+
+Fragmented health indicators
+
+Limited visibility into statewide patterns and disparities
+
+After (Metric):
+
+Consolidated and analyzed 2024 health indicators
+
+Highlighted trends, disparities, and focus areas for planning and intervention
+
+Tools Used:
+Power BI, Excel
+
+Dashboard / Report:
+View PDF
+
+Image Preview:
+
+
+
+
+
+
+2016 Uber Data Insight
+
+Project:
+Urban mobility analysis using historical Uber trip data.
+
+Problem Solved:
+Raw trip-level data lacked clear insight into when and where ride demand was concentrated.
+
+Before (Metric):
+
+Large volumes of unstructured trip data
+
+No summarized demand or spatial patterns
+
+After (Metric):
+
+Identified temporal demand trends and spatial ride distribution
+
+Improved understanding of urban mobility behavior
+
+Tools Used:
+Python, Pandas, Power BI
+
+Dashboard / Report:
+View PDF
+
+Image Preview:
+
+
+
+
+
+
+📂 Supporting Projects
+
+Concise projects that demonstrate breadth, consistency, and applied analytics skills.
+
+Power BI Capstone – Maven Electronics
+
+Problem Solved:
+Sales data existed without clear performance visibility across products and customers.
+
+Before:
+
+Raw sales data with limited analytical insight
+
+After:
+
+Built dashboards highlighting product performance, customer behavior, and sales trends
+
+Dashboard / Report:
+PDF coming soon
+
+Ilorin Tourism Insight
+
+Problem Solved:
+Tourism data lacked spatial context for planning and development decisions.
+
+Before:
+
+Tourism data not spatially analyzed
+
+After:
+
+Visualized tourism patterns and attraction distribution for planning insights
+
+Dashboard / Report:
+View PDF
+
+Fitness & Competition Insight
+
+Problem Solved:
+Fitness and competition metrics were tracked but not analyzed for performance progression.
+
+Before:
+
+Isolated fitness tracking without trend analysis
+
+After:
+
+Identified performance trends and competitive patterns over time
+
+Dashboard / Report:
+View PDF
+
+Balaji Fast Food Insight
+
+Problem Solved:
+Sales transactions were recorded without demand or performance analysis.
+
+Before:
+
+Transaction data used only for record-keeping
+
+After:
+
+Extracted demand patterns and operational insights from sales data
+
+Dashboard / Report:
+View PDF
+
+Indian HR Data Insight
+
+Problem Solved:
+HR data did not clearly explain workforce or attrition trends.
+
+Before:
+
+Static HR tables with limited insight
+
+After:
+
+Identified attrition patterns and workforce trends
+
+Dashboard / Report:
+PDF coming soon
+
+Data Analytics — 15 Days Challenge
+
+Problem Solved:
+Analytics skills were practiced without consistent delivery pressure.
+
+Before:
+
+Isolated, ad-hoc analytics practice
+
+After:
+
+Completed 15 consecutive analytics tasks, improving speed and consistency
+
+Dashboard / Report:
+View PDF
+
+📬 Contact
+
+📧 Email: bedeiwuoha@gmail.com
+
+💻 GitHub: https://github.com/bedeiwu
+
+🔗 LinkedIn: [(add link)](https://www.linkedin.com/in/bede-iwuoha-481361167?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
