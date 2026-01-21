@@ -70,7 +70,7 @@ If you would like to discuss my projects, explore collaboration opportunities, o
 
 - **Email:** bedeiwuoha@gmail.com  
 - **GitHub:** https://github.com/bedeiwu  
-- **LinkedIn:** *(add your LinkedIn profile link here)*  
+- **LinkedIn:** (https://www.linkedin.com/in/bede-iwuoha-481361167?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
