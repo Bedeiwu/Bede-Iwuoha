@@ -75,10 +75,10 @@ Tools Used:
 Power BI, QGIS, Excel
 
 Dashboard / Report:
-View PDF
+[View PDF](assets/agridb.pdf)
 
 Image Preview:
-
+![](assets/agridb1.png) ![](assets/agridb2.png)
 
 
 
@@ -106,9 +106,10 @@ Tools Used:
 Power BI, QGIS, Excel
 
 Dashboard / Report:
-View PDF
+[View PDF](assets/Nigerian%20Traffic%20data.pdf)
 
 Image Preview:
+![](assets/trafficsql-analysis1.png)  ![](assets/trafficsql-analysis2.png) ![](assets/trafficsql-analysis3.png)
 
 
 
@@ -139,10 +140,10 @@ Tools Used:
 Power BI, Excel
 
 Dashboard / Report:
-View PDF
+[View PDF](assets/LUTH%202024%20analysis.pdf)
 
 Image Preview:
-
+![](assets/health-wellness1.png) ![](assets/health-wellness2.png) ![](assets/health-wellness3.png)
 
 
 
@@ -172,9 +173,11 @@ Tools Used:
 Python, Pandas, Power BI
 
 Dashboard / Report:
-View PDF
+[View PDF](assets/Uber%20Data%20set%202016.pdf)
+
 
 Image Preview:
+![](assets/uberanalysis1.png) ![](assets/uberanalysis2.png) ![](assets/uberanalysis3.png)
 
 
 
