@@ -218,7 +218,7 @@ After:
 Visualized tourism patterns and attraction distribution for planning insights
 
 Dashboard / Report:
-View PDF
+[View PDF](assets/ilorin%20tourism%20insight.pdf)
 
 Fitness & Competition Insight
 
@@ -234,7 +234,7 @@ After:
 Identified performance trends and competitive patterns over time
 
 Dashboard / Report:
-View PDF
+[View PDF](assets/smart%20watch%20dsshboard.pdf)
 
 Balaji Fast Food Insight
 
@@ -250,7 +250,7 @@ After:
 Extracted demand patterns and operational insights from sales data
 
 Dashboard / Report:
-View PDF
+[View PDF](assets/food%20insight.pdf)
 
 Indian HR Data Insight
 
@@ -282,7 +282,7 @@ After:
 Completed 15 consecutive analytics tasks, improving speed and consistency
 
 Dashboard / Report:
-View PDF
+[View PDF](assets/15days%20challenge.pdf)
 
 📬 Contact
 
