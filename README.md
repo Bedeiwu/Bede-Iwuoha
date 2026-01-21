@@ -202,7 +202,7 @@ After:
 Built dashboards highlighting product performance, customer behavior, and sales trends
 
 Dashboard / Report:
-PDF coming soon
+[View PDF](assets/mavenelectronics.pdf)
 
 Ilorin Tourism Insight
 
@@ -266,7 +266,7 @@ After:
 Identified attrition patterns and workforce trends
 
 Dashboard / Report:
-PDF coming soon
+[View PDF](assets/hrdata.pdf)
 
 Data Analytics — 15 Days Challenge
 
